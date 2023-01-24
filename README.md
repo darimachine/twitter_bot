@@ -4,7 +4,7 @@ Loging to the twitter account with all verifications and closing the save passwo
 </h1>
 <img src='Inkedtwitter_1.jpg'> </img>
 <br>
-![image](https://user-images.githubusercontent.com/67830778/177018804-a5308d24-111b-4b45-9894-609ba0a16401.png)
+<img src='twitter_2.png'> </img>
 
 
 
